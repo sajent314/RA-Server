@@ -1,0 +1,15 @@
+{
+  "name": "ra-server-v2",
+  "version": "1.0.0",
+  "description": "New backend server for RA App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "ws": "^8.2.3"
+  }
+}
